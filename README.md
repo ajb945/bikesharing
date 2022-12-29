@@ -4,7 +4,7 @@
 
 An analysis of bike-sharing information from the Citi Bike program in New York City for the month of August, 2019 using Tableau. Link to the dashboard below:
 
-[link to dashboard](https://public.tableau.com/app/profile/andrew.brewer7081/viz/bikesharing_16718154599180/Presentation)
+[Link to dashboard](https://public.tableau.com/app/profile/andrew.brewer7081/viz/bikesharing_16718154599180/Presentation)
 
 ## Checkout Time Length and Gender Breakdown of Users
 
