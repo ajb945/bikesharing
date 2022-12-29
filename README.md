@@ -34,5 +34,7 @@ Subscribers appear to mostly be male and most heavily use the bikes on Thursdays
 
 ![bike_repairs](images/bike_repairs.png)
 
-The repair data seems to show a wide variation between bikes that have required repairs (as little as 1) and some that have required a large number (as many as 479). More analysis could be used to see if there are patterns of use between high and low use bikes such as showing the routes for the heaviest and lowest used bikes.
+The repair data seems to show a wide variation between bikes that have required repairs (as little as 1) and some that have required a large number (as many as 479). 
+
+More analysis could be used to see if there are patterns of use between high and low use bikes such as showing the routes for the heaviest and lowest used bikes.
 Another analysis that could be made is to see if there is more distinction of trip durations during the week and during the weekends.
